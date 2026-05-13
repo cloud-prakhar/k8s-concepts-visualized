@@ -15,3 +15,7 @@ Thumbs.db
 # Temp / drafts
 *.draft.md
 drafts/
+
+# Excalidraw source files — kept locally for editing, not needed on GitHub
+# SVG exports in the same folder are the GitHub-visible versions
+diagrams/*.excalidraw

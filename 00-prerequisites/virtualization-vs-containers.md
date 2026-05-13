@@ -61,7 +61,7 @@
 
 ## Visual Diagram
 
-> **Interactive diagram:** Open [`vm-vs-container.excalidraw`](../diagrams/vm-vs-container.excalidraw) in VSCode with the **Excalidraw** extension.
+![VMs vs Containers architecture comparison](../diagrams/vm-vs-container.svg)
 
 **VM Architecture:**
 ```

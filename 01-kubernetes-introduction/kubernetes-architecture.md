@@ -72,7 +72,7 @@ You (kubectl) → API Server → etcd (store state)
 
 ## Visual Diagram
 
-> **Interactive diagram:** Open [`cluster-architecture.excalidraw`](../diagrams/cluster-architecture.excalidraw) in VSCode with the **Excalidraw** extension.
+![Kubernetes cluster architecture](../diagrams/cluster-architecture.svg)
 
 **Full Architecture:**
 ```

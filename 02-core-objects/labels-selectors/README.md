@@ -78,7 +78,7 @@ team=platform      region=us-east
 
 ## Visual Diagram
 
-> **Interactive diagram:** Open [`label-selector.excalidraw`](../../diagrams/label-selector.excalidraw) in VSCode with the **Excalidraw** extension.
+![Labels and selectors filtering](../../diagrams/label-selector.svg)
 
 **Labels on pods:**
 ```

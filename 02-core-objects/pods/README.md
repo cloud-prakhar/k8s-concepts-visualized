@@ -68,7 +68,7 @@ Pending → Running → Succeeded/Failed
 
 ## Visual Diagram
 
-> **Interactive diagram:** Open [`pod-anatomy.excalidraw`](../../diagrams/pod-anatomy.excalidraw) in VSCode with the **Excalidraw** extension.
+![Kubernetes pod anatomy](../../diagrams/pod-anatomy.svg)
 
 **Pod Internals:**
 ```

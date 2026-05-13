@@ -71,7 +71,7 @@ http://my-service.other-namespace.svc.cluster.local
 
 ## Visual Diagram
 
-> **Interactive diagram:** Open [`namespaces.excalidraw`](../../diagrams/namespaces.excalidraw) in VSCode with the **Excalidraw** extension.
+![Kubernetes namespaces isolation](../../diagrams/namespaces.svg)
 
 **Namespaces as Floors:**
 ```

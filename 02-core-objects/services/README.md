@@ -75,7 +75,7 @@ When a pod is added or removed:
 
 ## Visual Diagram
 
-> **Interactive diagram:** Open [`service-types.excalidraw`](../../diagrams/service-types.excalidraw) in VSCode with the **Excalidraw** extension.
+![Kubernetes service types](../../diagrams/service-types.svg)
 
 **Service as Stable Front Door:**
 ```

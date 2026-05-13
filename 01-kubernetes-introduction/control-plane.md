@@ -119,7 +119,7 @@ Key controllers:
 
 ## Visual Diagram
 
-> **Interactive diagram:** Open [`control-plane.excalidraw`](../diagrams/control-plane.excalidraw) in VSCode with the **Excalidraw** extension.
+![Kubernetes control plane internals](../diagrams/control-plane.svg)
 
 **Control Plane Internal Flow:**
 ```
