@@ -6,20 +6,20 @@ This folder contains exported diagram files for all concepts in this repository.
 
 ## Diagram Index
 
-| Concept | Suggested Filename | Type | Status |
+| Concept | Excalidraw Source | Type | Status |
 |---------|-------------------|------|--------|
-| Full Cluster Architecture | `cluster-architecture.png` | Technical | Planned |
-| VM vs Container | `vm-vs-container.png` | Comparison | Planned |
-| Docker Build→Ship→Run | `docker-build-ship-run.png` | Flow | Planned |
-| Control Plane Internals | `control-plane.png` | Technical | Planned |
-| Worker Node Internals | `worker-node.png` | Technical | Planned |
-| Pod Anatomy | `pod-anatomy.png` | Technical | Planned |
-| ReplicaSet Self-Healing | `replicaset-healing.png` | Flow | Planned |
-| Deployment Rolling Update | `deployment-rolling-update.png` | Flow | Planned |
-| Service Types | `service-types.png` | Technical | Planned |
-| Label Selector Filtering | `label-selector.png` | Conceptual | Planned |
-| Namespace Isolation | `namespaces.png` | Technical | Planned |
-| Scheduling Flow | `scheduling-flow.png` | Flow | Planned |
+| Full Cluster Architecture | `cluster-architecture.excalidraw` | Technical | ✅ Done |
+| VM vs Container | `vm-vs-container.excalidraw` | Comparison | ✅ Done |
+| Docker Build→Ship→Run | `docker-build-ship-run.excalidraw` | Flow | ✅ Done |
+| Control Plane Internals | `control-plane.excalidraw` | Technical | ✅ Done |
+| Worker Node Internals | `worker-node.excalidraw` | Technical | ✅ Done |
+| Pod Anatomy | `pod-anatomy.excalidraw` | Technical | ✅ Done |
+| ReplicaSet Self-Healing | `replicaset-healing.excalidraw` | Flow | ✅ Done |
+| Deployment Rolling Update | `deployment-rolling-update.excalidraw` | Flow | ✅ Done |
+| Service Types | `service-types.excalidraw` | Technical | ✅ Done |
+| Label Selector Filtering | `label-selector.excalidraw` | Conceptual | ✅ Done |
+| Namespace Isolation | `namespaces.excalidraw` | Technical | ✅ Done |
+| Scheduling Flow | `scheduling-flow.excalidraw` | Flow | ✅ Done |
 
 ---
 
@@ -65,8 +65,10 @@ This folder contains exported diagram files for all concepts in this repository.
 
 ## Contributing Diagrams
 
-1. Create the diagram in Excalidraw (save the `.excalidraw` source file too)
-2. Export as PNG at 2x resolution
-3. Name it following the index above
-4. Drop it in this `/diagrams` folder
+1. Open the `.excalidraw` file in VSCode (requires the **Excalidraw** extension by Henning Dieterichs)
+2. Edit the diagram visually in VSCode — all changes auto-save to the JSON source file
+3. Export as PNG at 2x resolution (Excalidraw menu → Export → PNG)
+4. Name the PNG following the filename in the index above and drop it in this folder
 5. Update the index table with status: **Done**
+
+> **Tip:** The `.excalidraw` files are the source of truth. Always commit them alongside exported PNGs so diagrams stay editable.

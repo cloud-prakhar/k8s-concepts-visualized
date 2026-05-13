@@ -76,6 +76,8 @@ Key characteristics:
 
 ## Visual Diagram
 
+> **Interactive diagram:** Open [`cluster-architecture.excalidraw`](../diagrams/cluster-architecture.excalidraw) in VSCode with the **Excalidraw** extension.
+
 **High-Level Architecture:**
 ```
 ┌─────────────────────────────────────────────────────────────┐

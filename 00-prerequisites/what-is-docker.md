@@ -70,6 +70,8 @@ Before Docker, deploying an app meant:
 
 ## Visual Diagram
 
+> **Interactive diagram:** Open [`docker-build-ship-run.excalidraw`](../diagrams/docker-build-ship-run.excalidraw) in VSCode with the **Excalidraw** extension.
+
 **Image Layers:**
 ```
 ┌──────────────────────────────┐

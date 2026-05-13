@@ -119,6 +119,8 @@ Key controllers:
 
 ## Visual Diagram
 
+> **Interactive diagram:** Open [`control-plane.excalidraw`](../diagrams/control-plane.excalidraw) in VSCode with the **Excalidraw** extension.
+
 **Control Plane Internal Flow:**
 ```
 [kubectl apply -f pod.yaml]

@@ -91,6 +91,8 @@ Request to Service IP → kube-proxy rules → routed to one of the backend pod 
 
 ## Visual Diagram
 
+> **Interactive diagram:** Open [`worker-node.excalidraw`](../diagrams/worker-node.excalidraw) in VSCode with the **Excalidraw** extension.
+
 **Worker Node Internals:**
 ```
 ┌────────────────────────────────────────────────┐

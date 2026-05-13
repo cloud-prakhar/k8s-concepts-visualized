@@ -69,6 +69,8 @@ A ReplicaSet doesn't track pods by name — it tracks them by **label selectors*
 
 ## Visual Diagram
 
+> **Interactive diagram:** Open [`replicaset-healing.excalidraw`](../../diagrams/replicaset-healing.excalidraw) in VSCode with the **Excalidraw** extension.
+
 **ReplicaSet maintaining 3 replicas:**
 ```
 ┌────────────────────────────────────────────────────┐

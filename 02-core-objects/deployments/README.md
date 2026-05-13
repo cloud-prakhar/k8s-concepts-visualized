@@ -81,6 +81,8 @@ Back to v1 pods running
 
 ## Visual Diagram
 
+> **Interactive diagram:** Open [`deployment-rolling-update.excalidraw`](../../diagrams/deployment-rolling-update.excalidraw) in VSCode with the **Excalidraw** extension.
+
 **Deployment Object Hierarchy:**
 ```
 ┌──────────────────────────────────────────────────────┐
